@@ -1,7 +1,3 @@
-/*
- * Copyright (c) Travelsky Corp.
- * All Rights Reserved.
- */
 package com.peng;
 
 
